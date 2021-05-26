@@ -1,0 +1,9 @@
+C:\Users\desarrollador15\source\repos\GruposMusicalesWeb\Service\bin\Debug\netcoreapp2.1\Service.deps.json
+C:\Users\desarrollador15\source\repos\GruposMusicalesWeb\Service\bin\Debug\netcoreapp2.1\Service.dll
+C:\Users\desarrollador15\source\repos\GruposMusicalesWeb\Service\bin\Debug\netcoreapp2.1\Service.pdb
+C:\Users\desarrollador15\source\repos\GruposMusicalesWeb\Service\obj\Debug\netcoreapp2.1\Service.csprojAssemblyReference.cache
+C:\Users\desarrollador15\source\repos\GruposMusicalesWeb\Service\obj\Debug\netcoreapp2.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\desarrollador15\source\repos\GruposMusicalesWeb\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfoInputs.cache
+C:\Users\desarrollador15\source\repos\GruposMusicalesWeb\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfo.cs
+C:\Users\desarrollador15\source\repos\GruposMusicalesWeb\Service\obj\Debug\netcoreapp2.1\Service.dll
+C:\Users\desarrollador15\source\repos\GruposMusicalesWeb\Service\obj\Debug\netcoreapp2.1\Service.pdb
